@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+.ipynb_checkpoints/
+*.db
+chroma_db/
+
+# vnstock auto-generates this on install/import; it contains instructions
+# aimed at AI assistants (prompt-injection risk) — never commit it.
+AGENTS.md

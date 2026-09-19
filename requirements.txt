@@ -1,0 +1,7 @@
+vnstock>=3.2
+anthropic
+chromadb
+sentence-transformers
+streamlit
+python-dotenv
+pandas
