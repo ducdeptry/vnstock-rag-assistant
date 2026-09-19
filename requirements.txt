@@ -1,5 +1,5 @@
 vnstock>=3.2
-anthropic
+groq
 chromadb
 sentence-transformers
 streamlit
